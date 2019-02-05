@@ -10,9 +10,9 @@ This example uses Apollo's `RESTDataSource` to fetch data from the API --> https
 - graphql
 
 ## Run the example
-`npm install` dependencies  
-`node index.js`  
-navigate to http://localhost:4000/ to open Playground  
+1. `npm install` dependencies  
+2. `node index.js`  
+3. navigate to http://localhost:4000/ to open Playground  
 
 
 ## Example query
